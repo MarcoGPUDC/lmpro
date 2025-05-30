@@ -1,10 +1,10 @@
-body {
+body, p {
     font-family: 'Poppins', sans-serif;
 }
 .card-title {
     font-family: 'Poppins', sans-serif;
 }
-h1, h2, h3, H4,h5, p, .navbar-brand {
+h1, h2, h3, H4,h5, .navbar-brand, .subtitulo {
     font-family: 'Playfair Display', serif;
 }
 .bg-degradado-dorado {
@@ -62,8 +62,6 @@ h1, h2, h3, H4,h5, p, .navbar-brand {
     display: block;
     width: 60px;
     height: 3px;
-    background: #b79d50;
-    margin: 0.5rem auto 1rem;
 }
 .img-servicio {
     width: 100%;
@@ -81,6 +79,9 @@ h1, h2, h3, H4,h5, p, .navbar-brand {
 }
 .bg-dorado {
     background-color: #b79d50;
+}
+.dorado{
+    color: #b79d50;
 }
 .img-servicio{
     z-index: 4;
@@ -161,6 +162,7 @@ h1, h2, h3, H4,h5, p, .navbar-brand {
     position: fixed;
     bottom: 20px;
     right:20px;
+    z-index: 10;
  }
  ul.listaSinViñeta{
     list-style-type: none;

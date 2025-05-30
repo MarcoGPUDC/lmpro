@@ -3,6 +3,7 @@ body, p {
 }
 .card-title {
     font-family: 'Poppins', sans-serif;
+    color: rgb(191, 178, 178);
 }
 h1, h2, h3, H4,h5, .navbar-brand, .subtitulo {
     font-family: 'Playfair Display', serif;

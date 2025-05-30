@@ -160,8 +160,8 @@ h1, h2, h3, H4,h5, .navbar-brand, .subtitulo {
 }
 #whatsapp {
     position: fixed;
-    bottom: 20px;
-    right:20px;
+    bottom: 30px;
+    right:30px;
     z-index: 10;
  }
  ul.listaSinViñeta{

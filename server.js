@@ -169,9 +169,16 @@ app.get('/config', (req,res) => {
             geoPass: process.env.PASSWORD_GEO
   })
 })*/
+//RUTAS
+const rutas_controlador = require('./servicios/js/rutas_controlador');
+app.use('/services', rutas_controlador);
+app.set('view engine', 'pug');
+app.set('views', [__dirname + '/servicios/']);
+
 
 // Iniciar el servidor
 const port = 3000;
 app.listen(port, () => {
     console.log(`Servidor Express escuchando en el puerto ${port}`);
 });
+

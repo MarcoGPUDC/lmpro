@@ -170,7 +170,7 @@ app.get('/config', (req,res) => {
   })
 })*/
 //RUTAS
-const rutas_controlador = require('./servicios/js/rutas_controlador');
+const rutas_controlador = require('./services/js/rutas_controlador');
 app.use('/services', rutas_controlador);
 
 app.set('view engine', 'pug');

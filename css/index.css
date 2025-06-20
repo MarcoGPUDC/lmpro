@@ -5,7 +5,7 @@ body, p {
     font-family: 'Poppins', sans-serif;
     color: rgb(191, 178, 178);
 }
-h1, h2, h3, H4,h5, .navbar-brand, .subtitulo {
+h1, h2, h3, H4, .navbar-brand, .subtitulo {
     font-family: 'Playfair Display', serif;
 }
 .bg-degradado-dorado {
@@ -81,8 +81,8 @@ h1, h2, h3, H4,h5, .navbar-brand, .subtitulo {
 .bg-dorado {
     background-color: #b79d50;
 }
-.dorado{
-    color: #f8cc49;
+.colorTextoGeneral{
+    color: rgb(191, 178, 178);
 }
 .img-servicio{
     z-index: 4;
@@ -105,7 +105,7 @@ h1, h2, h3, H4,h5, .navbar-brand, .subtitulo {
     margin-top: 5%;
     margin-bottom: 5%;
 }
-.banner h1 {
+.banner h2 {
     background-color: rgba(0, 0, 0, 0);
     border-radius: 10px;
     max-width: 90%;
@@ -134,6 +134,7 @@ h1, h2, h3, H4,h5, .navbar-brand, .subtitulo {
     font-size: 15px;
     text-align: center;
     font-weight: bold;
+    color: rgb(191, 178, 178);
 }
 .linea-doble {
     border: none;
@@ -156,7 +157,7 @@ h1, h2, h3, H4,h5, .navbar-brand, .subtitulo {
     aspect-ratio: 1 / 1;
 }
 .link-blanco {
-    color: white;
+    color: rgb(191, 178, 178);
     text-decoration: none;
 }
 #whatsapp {

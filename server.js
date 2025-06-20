@@ -172,8 +172,19 @@ app.get('/config', (req,res) => {
 //RUTAS
 const rutas_controlador = require('./servicios/js/rutas_controlador');
 app.use('/services', rutas_controlador);
+
 app.set('view engine', 'pug');
-app.set('views', [__dirname + '/servicios/']);
+app.set('views', [__dirname + '/servicios/',__dirname + '/public/html/']);
+
+app.use('/servicios', express.static(path.join(__dirname, 'servicios'), {
+  setHeaders: (res, path) => {
+    if (path.endsWith('.css')) {
+      res.setHeader('Content-Type', 'text/css');
+    } else if (path.endsWith('.js')) {
+      res.setHeader('Content-Type', 'application/javascript');
+    }
+  }
+}));
 
 
 // Iniciar el servidor

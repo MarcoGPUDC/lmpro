@@ -38,10 +38,10 @@ function crearAcordeon(items) {
       document.getElementById('accordionServicios').appendChild(encabezado);
       bajaContenedorFadeInNuevo(encabezado, i);
     });
-    const imagen = document.createElement('img');
-    imagen.id = 'imagenAccordion';
-    imagen.src = 'https://placehold.co/400x766?text=Imagen+representativa';
-    document.getElementById('containerAccordion').appendChild(imagen);
+    //const imagen = document.createElement('img');
+    //imagen.id = 'imagenAccordion';
+    //imagen.src = 'https://placehold.co/400x766?text=Imagen+representativa';
+    //document.getElementById('containerAccordion').appendChild(imagen);
   }
   
   function generarLista(desc) {
@@ -96,8 +96,8 @@ function crearAcordeon(items) {
   function volver() { 
     const acordion = document.getElementById('accordionServicios')
     const contenedor = document.getElementById('servicios');
-    const imagenAcordion = document.getElementById('imagenAccordion')
-    imagenAcordion.remove();
+    //const imagenAcordion = document.getElementById('imagenAccordion')
+    //imagenAcordion.remove();
     while (acordion.firstChild) {
       acordion.firstChild.remove();
     }

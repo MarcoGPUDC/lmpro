@@ -1,0 +1,88 @@
+[
+    {
+      "titulo": "Contratación artística y representación legal",
+      "desc": [
+        "Redacción y negociación de contratos con actores, músicos, deportistas, influencers, etc.",
+        "Asesoramiento a managers y agencias.",
+        "Convenios con plataformas como Netflix y Spotify."
+      ]
+    },
+    {
+      "titulo": "Derecho audiovisual y cinematográfico",
+      "desc": [
+        "Asistencia legal en desarrollo, rodaje y distribución.",
+        "Registro de obras en INCAA, DAC, SADAIC, etc.",
+        "Contratos de coproducción internacional y cesión de imagen."
+      ]
+    },
+    {
+      "titulo": "Industria musical",
+      "desc": [
+        "Contratos de grabación, distribución y management.",
+        "Registro y protección de obras y fonogramas.",
+        "Cobro de regalías (SADAIC, CAPIF, AADI)."
+      ]
+    },
+    {
+      "titulo": "Medios de comunicación y broadcasting",
+      "desc": [
+        "Asesoramiento a canales de TV, radios, plataformas de streaming y OTT.",
+        "Licencias de emisión, regulaciones de ENACOM o equivalentes internacionales.",
+        "Protección frente a difamación, fake news, y conflictos con figuras públicas."
+      ]
+    },
+    {
+      "titulo": "Influencers, gaming y redes sociales",
+      "desc": [
+        "Asesoramiento legal a creadores de contenido y streamers.",
+        "Contratos de representación, sponsorships, publicidad nativa y branded content.",
+        "Regulación de uso de imagen, derechos de autor y conflictos con plataformas.",
+        "Asuntos legales de e-sports, gaming competitivo y monetización en Twitch/YouTube."
+      ]
+    },
+    {
+      "titulo": "Propiedad intelectual",
+      "desc": [
+        {
+          "texto": "Registro y defensa de:",
+          "subitems": [
+            "Obras artísticas, guiones, personajes, coreografías, podcasts, etc.",
+            "Marcas, patentes, nombres artísticos y pseudónimos."
+          ]
+        },
+        "Litigios por plagio, uso no autorizado, o infracciones contractuales."
+      ]
+    },
+    {
+      "titulo": "Negocios internacionales y fiscalidad",
+      "desc": [
+        "Estructuración legal de negocios en el exterior (producciones en LATAM, EE.UU., Europa, Países Árabes).",
+        "Planificación fiscal para artistas que facturan en distintas jurisdicciones.",
+        "Tratados de doble imposición y uso de sociedades (offshore/onshore)."
+      ]
+    },
+    {
+      "titulo": "Litigios y resolución de conflictos",
+      "desc": [
+        "Defensa ante incumplimientos contractuales, censura, conflictos entre artistas.",
+        "Mediación y arbitraje en contratos internacionales de producción.",
+        "Demandas por uso no autorizado de imagen, reputación o derecho al honor."
+      ]
+    },
+    {
+      "titulo": "Docencia, consultoría y publicaciones",
+      "desc": [
+        "Prácticas relacionadas con Entertainment Law para acreditar en Master y/o especializaciones (ISDE, Berklee, UBA, etc.).",
+        "Consultoría en políticas culturales y regulación digital.",
+        "Redacción de libros, artículos, papers y análisis en medios especializados."
+      ]
+    },
+    {
+      "titulo": "Asesoramiento institucional y cultural",
+      "desc": [
+        "Asistencia a organismos estatales o ONGs en materia de cultura, cine y tecnología.",
+        "Redacción de leyes, reglamentos o programas de incentivo a la producción cultural."
+      ]
+    }
+  ]
+  

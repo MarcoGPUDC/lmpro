@@ -173,3 +173,62 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
  ul h5 {
     text-decoration: underline;
  }
+
+ .accordion-button:not(.collapsed){
+    color: white;
+}
+
+#containerAccordion{
+    margin-top: 35px;
+    margin-left: 20px;
+    width: 100%;
+}
+
+#accordionServicios{
+    min-width: 60%;
+    max-width: 60%;
+    display: inline-block;
+}
+.accordion-body{
+   background-color: #fbfbbf;
+}
+
+#imagenAccordion{
+    display: inline-block;
+    vertical-align: top;
+    height: 50%;
+    border-radius: 2%;
+}
+
+.accordion-item {
+    position: relative;
+    color: white;
+    text-shadow: 1px 1px 3px black;
+  }
+.accordion-button {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+.accordion-body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.navegador{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+    backdrop-filter: blur(10px);
+    transition: background-color 0.3s ease-in-out;
+    height: 59px;
+}
+
+.listItem{
+    font-size: 1rem;
+    margin: 0;
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 4%;
+}

@@ -1,0 +1,70 @@
+[
+    {
+      "titulo": "Planificación financiera y estructuración legal del patrimonio",
+      "desc": [
+        "Diseño de estructuras jurídicas eficientes para la conservación, crecimiento y sucesión del patrimonio.",
+        "Asesoría en planificación financiera integral: flujos, pasivos, ingresos extraordinarios y diversificación.",
+        "Estructuración de holdings familiares, fideicomisos y sociedades vehiculares.",
+        "Coordinación con asesores financieros y bancos privados para planificación conjunta."
+      ]
+    },
+    {
+      "titulo": "Inversiones y adquisición de activos",
+      "desc": [
+        "Due diligence legal para inversiones en empresas, inmuebles, obras de arte o activos alternativos.",
+        "Asesoramiento en la constitución y administración de sociedades de inversión.",
+        "Asistencia legal en operaciones en mercados de capitales y fondos privados (private equity, venture capital).",
+        "Protección jurídica ante conflictos, fraudes o malas prácticas en inversiones patrimoniales."
+      ]
+    },
+    {
+      "titulo": "Family office y gestión fiduciaria (trust & wealth management)",
+      "desc": [
+        "Estructuración legal de family office (interno o externo) y redacción de estatutos o protocolos familiares.",
+        "Creación y administración de fideicomisos (trusts) para gestión intergeneracional del patrimonio.",
+        "Asesoramiento sobre distribución de roles familiares, gobierno corporativo y reglas de sucesión.",
+        "Implementación de políticas de compliance patrimonial y prevención de conflictos."
+      ]
+    },
+    {
+      "titulo": "Compra de inmuebles y administración de bienes",
+      "desc": [
+        "Asesoramiento legal integral en operaciones inmobiliarias locales e internacionales.",
+        "Estructuración fiscal y jurídica de compra de propiedades de lujo, inversión o uso mixto.",
+        "Due diligence, escrituración, registración y administración legal de bienes raíces.",
+        "Representación en alquileres, ventas, administración fiduciaria o en garantía."
+      ]
+    },
+    {
+      "titulo": "Internacionalización de capital y planificación fiscal global",
+      "desc": [
+        "Asistencia legal en apertura de cuentas bancarias y estructuras de inversión en el exterior.",
+        "Asesoramiento en cumplimiento de normativa cambiaria y declaraciones de activos (ARCA, SISA, CRS, FATCA).",
+        "Planificación fiscal internacional para evitar doble imposición y proteger activos.",
+        "Gestión legal de activos globales (carteras, propiedades, cuentas, trusts)."
+      ]
+    },
+    {
+      "titulo": "Protección legal ante crisis personales, sucesorias o fiscales",
+      "desc": [
+        "Asistencia en procesos de divorcio con reparto de grandes patrimonios o bienes globales.",
+        "Defensa ante fiscalizaciones, conflictos con herederos o reclamos sobre activos.",
+        "Asesoramiento sucesorio y redacción de testamentos, pactos de herencia o acuerdos extrajudiciales.",
+        "Gestión de donaciones, legados o cesiones patrimoniales con eficiencia fiscal."
+      ]
+    },
+    {
+      "titulo": "Servicios complementarios",
+      "desc": [
+        {
+          "texto": "Contratos de confidencialidad, representación o mandato para proteger la identidad del cliente."
+        },
+        {
+          "texto": "Asesoría en operaciones con criptoactivos y tokenización de bienes patrimoniales."
+        },
+        {
+          "texto": "Defensa en conflictos de jurisdicción internacional (residencia fiscal, herencias cruzadas, divorcios globales)."
+        }
+      ]
+    }
+  ]

@@ -128,7 +128,7 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     font-family: 'Poppins', sans-serif;
     padding-bottom: 10px;
     padding-top: 10px;
-    font-size: 15px;
+    font-size: 18px;
 }
 .seccionInfo-contenido{
     font-family: 'Poppins', sans-serif;
@@ -136,12 +136,12 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     padding-left: 7%;
     font-size: 15px;
     text-align: center;
-    font-weight: bold;
     color: rgb(191, 178, 178);
 }
 
 .seccionInfo-contenido h5{
     font-size: 15px;
+    font-weight: bold;
 }
 
 .linea-doble {

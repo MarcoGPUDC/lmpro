@@ -20,9 +20,9 @@
 
   <!-- Contenedor Principal -->
   <div id="servicios">
+    <!-- Nuestro Trabajo -->
     <section class="py-6">
       <div class="container">
-        <!--NUESTRO TRABAJO-->
         <div class="row g-4 ">
           <div class="container ">
             <div class="seccionInfo">
@@ -45,6 +45,7 @@
       </div>
     </section>
     <hr class="linea-doble">
+    <!--QUE NOS DIFERENCIA?-->
     <section class="py-6">
       <div class="container">
         <div class="py-6">
@@ -74,11 +75,9 @@
         </div>
       </div>
     </section>
-  
-    <!-- Servicios -->
+
     <hr class="linea-doble">
     <!--NUESTROS SERVICIOS-->
-
     <section class="py-6 accordion" id="serviciosPrincipales">
       <div class="container">
         <div class="seccionInfo">
@@ -88,129 +87,142 @@
           <div class="row g-4 ">
             <!-- Servicio 1 con fondo degradado-->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body">
-                  <img src="/public/img/carrera profesional.jpg" alt="" class="img-servicio">
-                  <h5 class="card-title" onclick="cargarServicio('carreraProfesional')"><a class="link-blanco" href="#profesional&RepresentaciónInfo">Carrera Profesional & Representación</a></h5>
-                  <!--<p class="card-text">Explorá Ibiza desde el mar con nuestras embarcaciones de lujo.</p>-->
+              <a class="link-blanco" onclick="cargarServicio('carreraProfesional')" href="#carreraProfesional">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body" >
+                    <img src="/public/img/carrera profesional.jpg" alt="" class="img-servicio">
+                    <h5 class="card-title" >Carrera Profesional & Representación</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
             <!-- Servicio 2 con fondo degradado -->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body">
-                  <img src="/public/img/patrocinios & endorsement.jpg" alt="Chef" class="img-servicio">
-                  <h5 class="card-title" onclick="cargarServicio('patrocinios&Endorsement')"><a class="link-blanco" href="#patrocinios&Endorsement">Patrocinios & Endorsement</a></h5>
-                  <!--<p class="card-text">Disfrutá de gastronomía exclusiva sin salir de tu villa.</p>-->
+              <a class="link-blanco" onclick="cargarServicio('patrocinios&Endorsement')" href="#patrocinios&Endorsement">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body">
+                    <img src="/public/img/patrocinios & endorsement.jpg" alt="Chef" class="img-servicio">
+                    <h5 class="card-title" >Patrocinios & Endorsement</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
+
             </div>
             <!-- Servicio 3 con fondo degradado-->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body" >
-                  <img src="public/img/gestion financiera y patrimonial.webp" alt="VIP" class="img-servicio">
-                  <h5 class="card-title" onclick="cargarServicio('financiera&Patrimonial')"><a class="link-blanco" href="#financiera&Patrimonial">Gestión Financiera & Patrimonial</a></h5>
-                  <!--<p class="card-text">Acceso preferente a restaurantes, clubs y eventos de Ibiza.</p>-->
+              <a class="link-blanco" onclick="cargarServicio('financiera&Patrimonial')" href="#financiera&Patrimonial">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body" >
+                    <img src="public/img/gestion financiera y patrimonial.webp" alt="VIP" class="img-servicio">
+                    <h5 class="card-title">Gestión Financiera & Patrimonial</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
             <!-- Servicio 4 con fondo degradado-->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body" >
-                  <img src="public/img/asesoramiento legal y fiscal.jpg" alt="VIP" class="img-servicio">
-                  <h5 class="card-title"onclick="cargarServicio('legal&Fiscal')"><a class="link-blanco" href="#legal&Fiscal">Planificación Fiscal Estrategica</a></h5>
-                  <!--<p class="card-text">Acceso preferente a restaurantes, clubs y eventos de Ibiza.</p>-->
+              <a class="link-blanco" onclick="cargarServicio('legal&Fiscal')" href="#legal&Fiscal">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body" >
+                    <img src="public/img/asesoramiento legal y fiscal.jpg" alt="VIP" class="img-servicio">
+                    <h5 class="card-title">Planificación Fiscal Estrategica</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
           </div>
           <!--LINEA 2-->
           <div class="row g-4 mt-2">
             <!-- Servicio 5 con fondo degradado-->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body" >
-                  <img src="public/img/compliance.jpg" alt="" class="img-servicio">
-                  <h5 class="card-title" onclick="cargarServicio('integridadDeporte')"><a class="link-blanco" href="#integridadDeporte"></a>Compliance: Integridad en el deporte</h5>
-                  <!--<p class="card-text">Explorá Ibiza desde el mar con nuestras embarcaciones de lujo.</p>-->
+              <a class="link-blanco" onclick="cargarServicio('integridadDeporte')" href="#integridadDeporte">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body" >
+                    <img src="public/img/compliance.jpg" alt="" class="img-servicio">
+                    <h5 class="card-title" >Compliance: Integridad en el deporte</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
             <!-- Servicio 6 con fondo degradado -->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body">
-                  <img src="public/img/politicas anticorrupcion y soborno.png" alt="" class="img-servicio">
-                  <h5 class="card-title" onclick="cargarServicio('anticorrupcion&Soborno')"><a class="link-blanco" href="#anticorrupcion&Soborno">Políticas anticorrupción & soborno</a></h5>
-                  <!--<p class="card-text">Disfrutá de gastronomía exclusiva sin salir de tu villa.</p>-->
+              <a class="link-blanco" onclick="cargarServicio('anticorrupcion&Soborno')" href="#anticorrupcion&Soborno">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body">
+                    <img src="public/img/politicas anticorrupcion y soborno.png" alt="" class="img-servicio">
+                    <h5 class="card-title">Políticas anticorrupción & soborno</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
             <!-- Servicio 7 con fondo degradado-->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body" >
-                  <img src="public/img/prevencion blanqueo de capitales.webp" alt="VIP" class="img-servicio">
-                  <h5 class="card-title" onclick="cargarServicio('blanqueoCapitales')"><a class="link-blanco" href="#blanqueoCapitales">Prevención de blanqueo de capitales (PBC/AML)</a></h5>
-                  <!--<p class="card-text">Acceso preferente a restaurantes, clubs y eventos de Ibiza.</p>-->
+              <a class="link-blanco" onclick="cargarServicio('blanqueoCapitales')" href="#blanqueoCapitales">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body" >
+                    <img src="public/img/prevencion blanqueo de capitales.webp" alt="VIP" class="img-servicio">
+                    <h5 class="card-title" >Prevención de blanqueo de capitales (PBC/AML)</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
             <!-- Servicio 8 con fondo degradado-->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body">
-                  <img src="public/img/proteccion de datos.png" alt="VIP" class="img-servicio">
-                  <h5 class="card-title"  onclick="cargarServicio('datos&Privacidad')"><a class="link-blanco" href="#datos&Privacidad">Protección de datos & privacidad</a></h5>
-                  <!--<p class="card-text">Acceso preferente a restaurantes, clubs y eventos de Ibiza.</p>-->
+              <a class="link-blanco" onclick="cargarServicio('datos&Privacidad')" href="#datos&Privacidad">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body">
+                    <img src="public/img/proteccion de datos.png" alt="VIP" class="img-servicio">
+                    <h5 class="card-title">Protección de datos & privacidad</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
           </div>
           <!--LINEA 3--> 
           <div class="row g-4 mt-2">
             <!-- Servicio 9 con fondo degradado-->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body">
-                  <img src="public/img/etica y buenas practicas de marketing.webp" alt="Yate" class="img-servicio">
-                  <h5 class="card-title" onclick="cargarServicio('etica&Marketing')"><a class="link-blanco" href="#etica&Marketing">Ética & buenas prácticas en marketing</a></h5>
-                  <!--<p class="card-text">Explorá Ibiza desde el mar con nuestras embarcaciones de lujo.</p>-->
+              <a class="link-blanco" href="#etica&Marketing" onclick="cargarServicio('etica&Marketing')">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body">
+                    <img src="public/img/etica y buenas practicas de marketing.webp" alt="Yate" class="img-servicio">
+                    <h5 class="card-title">Ética & buenas prácticas en marketing</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
             <!-- Servicio 10 con fondo degradado -->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body">
-                  <img src="public/img/auditorias internas y externas.jpg" alt="Chef" class="img-servicio">
-                  <h5 class="card-title" onclick="cargarServicio('auditorias')"><a class="link-blanco" href="#auditorias">Auditorías internas & externas</a></h5>
-                  <!--<p class="card-text">Disfrutá de gastronomía exclusiva sin salir de tu villa.</p>-->
+              <a class="link-blanco" href="#auditorias" onclick="cargarServicio('auditorias')">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body">
+                    <img src="public/img/auditorias internas y externas.jpg" alt="Chef" class="img-servicio">
+                    <h5 class="card-title">Auditorías internas & externas</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
             <!-- Servicio 11 con fondo degradado-->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body">
-                  <img src="public/img/formacion y sensibilizacion.jpg" alt="VIP" class="img-servicio">
-                  <h5 class="card-title" onclick="cargarServicio('formacion&Sensibilizacion')"><a class="link-blanco" href="#formacion&Sensibilizacion">Formación & sensibilización</a></h5>
-                  <!--<p class="card-text">Acceso preferente a restaurantes, clubs y eventos de Ibiza.</p>-->
+              <a class="link-blanco" href="#formacion&Sensibilizacion" onclick="cargarServicio('formacion&Sensibilizacion')">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body">
+                    <img src="public/img/formacion y sensibilizacion.jpg" alt="VIP" class="img-servicio">
+                    <h5 class="card-title">Formación & sensibilización</h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
             <!-- Servicio 12 con fondo degradado-->
             <div class="col-md-6 col-lg-3">
-              <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
-                <div class="card-body">
-                  <img src="public/img/gestion-de-crisis-reputacional.jpg" alt="VIP" class="img-servicio">
-                  <h5 class="card-title" onclick="cargarServicio('gestionReputacional')"><a class="link-blanco" href="#gestionReputacional">Gestión de crisis reputacional</a></h5>
-                  <!--<p class="card-text">Acceso preferente a restaurantes, clubs y eventos de Ibiza.</p>-->
+              <a class="link-blanco" href="#gestionReputacional" onclick="cargarServicio('gestionReputacional')">
+                <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
+                  <div class="card-body">
+                    <img src="public/img/gestion-de-crisis-reputacional.jpg" alt="VIP" class="img-servicio">
+                    <h5 class="card-title" onclick="cargarServicio('gestionReputacional')"><a class="link-blanco" href="#gestionReputacional">Gestión de crisis reputacional</a></h5>
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
           </div>
         </div>

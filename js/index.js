@@ -84,11 +84,11 @@ function crearAcordeon(items) {
   //Animaciones del acordeon  
   function bajaContenedorFadeInNuevo(contenedor, i) {
     gsap.from(contenedor, {
-    duration: 0.6,
+    duration: 0.7,
     opacity: 0,
     y: 20,
     ease: "power2.out",
-    delay: i * 0.1 // para escalonar animaciones si querés
+    delay: i * 0.3 // para escalonar animaciones si querés
   });
   }
 

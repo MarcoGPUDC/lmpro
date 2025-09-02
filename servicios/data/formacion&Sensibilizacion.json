@@ -1,6 +1,59 @@
 [
     {
-        "titulo": "Workshops y e-learning sobre ética deportiva, protección de menores en eventos, y conductas prohibidas."
+        "titulo":"Diagnóstico y Análisis de Necesidades de Formación",
+        "desc": [
+            "Evaluación de riesgos y áreas críticas en cumplimiento.",
+            "Identificación de brechas de conocimiento y cultura de cumplimiento en la organización."
+        ]
+    },
+    {
+        "titulo":"Diseño e Implementación de Programas de Formación",
+        "desc":[
+            "Desarrollo de contenidos específicos sobre normativas legales, códigos éticos, políticas internas y buenas prácticas",
+            "Cursos online, presenciales o híbridos adaptados a las necesidades del cliente."
+        ]
+    },
+    {   
+        "titulo":"Campañas de Sensibilización y Comunicación Interna",
+        "desc":[
+            "Elaboración de campañas para aumentar la conciencia sobre compliance y ética.",
+            "Uso de videos, newsletters, posters y eventos para reforzar los mensajes clave."
+        ]
+    },
+    {
+        "titulo":"Formación en Temas Específicos",
+        "desc":[
+            "Anticorrupción, lavado de dinero, protección de datos, igualdad y diversidad, seguridad laboral, entre otros.",
+            "Formación para distintos niveles jerárquicos y roles específicos."
+        ]
+    },
+    {
+        "titulo":"Programas de Capacitación en Conducta Ética",
+        "desc":[
+            "Fomentar comportamientos responsables y éticos en el día a día laboral.",
+            "Talleres y seminarios interactivos."
+        ]
+    },
+    {
+        "titulo":"Evaluación y Seguimiento",
+        "desc":[
+            "Tests, encuestas y auditorías para medir el conocimiento y la efectividad de la formación.",
+            "Informes de cumplimiento y recomendaciones de mejora."
+        ]
+    },
+    {
+        "titulo":"Asesoramiento y Actualización Normativa",
+        "desc":[
+            "Mantener a la organización informada sobre cambios en leyes y regulaciones.",
+            "Actualización periódica de los contenidos de formación."
+        ]
+    },
+    {
+        "titulo":"Programas de Cultura de Cumplimiento",
+        "desc":[
+            "Integración de valores éticos y cumplimiento en la cultura organizacional.",
+            "Promoción de canales de denuncia y protección a los whistleblowers."
+        ]
     }
 ]
 

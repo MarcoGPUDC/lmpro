@@ -1,8 +1,51 @@
 [
     {
-        "titulo": "Políticas de anti-dopaje informativo y verificación de contenidos."
+        "titulo": "Diagnóstico y Evaluación de Prácticas de Marketing",
+        "desc":[
+            "Revisión de campañas, publicidad y promociones para detectar posibles riesgos éticos o incumplimientos normativos.",
+            "Análisis de la transparencia, veracidad y responsabilidad en las comunicaciones."
+        ]
     },
     {
-        "titulo": "Control de insider trading en eventos (“betting compliance”)."
+        "titulo": "Diseño e Implementación de Políticas de Marketing Ético",
+        "desc":[
+            "Desarrollo de códigos y guías internas que establezcan estándares éticos para campañas, promociones y relaciones con clientes.",
+            "Creación de procedimientos para asegurar la veracidad y corrección en la publicidad."
+        ]
+    },
+    {
+        "titulo": "Formación y Sensibilización en Ética de Marketing",
+        "desc":[
+            "Programas de capacitación para equipos de marketing, ventas y publicidad.",
+            "Talleres sobre derechos del consumidor, publicidad engañosa, protección de datos y responsabilidad social."
+        ]
+    },
+    {
+        "titulo": "Revisión y Control de Campañas Publicitarias",
+        "desc":[
+            "Supervisión previa y durante la ejecución de campañas para garantizar el cumplimiento de las buenas prácticas.",
+            "Asesoramiento en la redacción y diseño de contenidos publicitarios, promociones y ofertas."
+        ]
+    },
+    {
+        "titulo": "Asesoramiento en Normativas y Regulaciones",
+        "desc":[
+            "Información actualizada sobre leyes y regulaciones aplicables en marketing y publicidad (por ejemplo, protección de datos, publicidad infantil, derechos del consumidor).",
+            "Acompañamiento en la adaptación de campañas a los requisitos legales y éticos."
+        ]
+    },
+    {
+        "titulo": "Gestión de Reclamos y Resolución de Conflictos",
+        "desc":[
+            "Atención y gestión de reclamaciones relacionadas con prácticas de marketing.",
+            "Implementación de mecanismos internos para prevenir y resolver posibles conflictos éticos."
+        ]
+    },
+    {
+        "titulo": "Auditorías de Buenas Prácticas de Marketing",
+        "desc":[
+            "Evaluaciones periódicas para verificar el cumplimiento de las políticas éticas y normativas.",
+            "Recomendaciones para mejorar la responsabilidad social y la reputación de la marca"
+        ]
     }
 ]

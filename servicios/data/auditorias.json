@@ -1,12 +1,39 @@
 [
     {
-        "titulo": "Revisión periódica de procesos y controles."
+        "titulo": "Auditorías de Cumplimiento Internas.",
+        "desc":[
+            "Evaluación de políticas y procedimientos: Verificación de que las políticas internas y normativas externas se están implementando correctamente.",
+            "Revisión de controles internos: Análisis de los controles diseñados para prevenir incumplimientos legales, éticos o regulatorios.",
+            "Detección de riesgos y brechas: Identificación de áreas vulnerables y recomendaciones para fortalecer el cumplimiento.",
+            "Seguimiento de acciones correctivas: Supervisión de la implementación de medidas correctivas tras auditorías previas."
+        ]
     },
     {
-        "titulo": "Elaboración de informes de cumplimiento para inversores y sponsors."
+        "titulo": "Auditorías de Cumplimiento Externa.",
+        "desc":[
+            "Verificación de cumplimiento normativo: Evaluación independiente del grado de cumplimiento con leyes, regulaciones y estándares aplicables.",
+            "Certificación y informes: Emisión de informes que acrediten el cumplimiento o identifiquen desviaciones, útiles para auditorías regulatorias o de terceros.",
+            "Evaluación de riesgos regulatorios: Análisis de posibles riesgos legales y recomendaciones para mitigarlos."
+        ]
+    },
+    {
+        "titulo": "Revisión y Evaluación de Programas de Compliance",
+        "desc":[
+            "Auditoría de programas de ética y cumplimiento: Verificación de la efectividad y madurez del programa de compliance, incluyendo canales de denuncia, formación y cultura ética.",
+            "Simulaciones y pruebas de control: Ejercicios prácticos para medir la eficacia de controles y políticas."
+        ]
+    },
+    {
+        "titulo": "Asesoramiento y Mejora Continua",
+        "desc":[
+            "Recomendaciones de mejoras: Propuestas para optimizar controles, políticas y prácticas.",
+            "Capacitación y sensibilización: Apoyo en formación del personal para fortalecer la cultura de cumplimiento."
+        ]
+    },
+    {
+        "titulo": "Auditorías específicas por sector",
+        "desc":[
+            "Servicios adaptados a sectores como financiero, sanitario, energético, tecnológico, entre otros, con enfoque en normativas específicas."
+        ]
     }
 ]
-
-
-
-

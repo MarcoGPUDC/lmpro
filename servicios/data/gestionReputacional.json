@@ -1,8 +1,53 @@
 [
     {
-        "titulo": "Procedimientos para respuesta rápida ante escándalos o filtraciones."
+        "titulo": "Análisis de Riesgos y Monitoreo de Medios",
+        "desc": [
+            "Vigilancia de medios, redes sociales y plataformas digitales para identificar rápidamente posibles crisis relacionadas con artistas, producciones, eventos o instalaciones.",
+            "Análisis de tendencias y opiniones públicas que puedan afectar la reputación."
+        ]
     },
     {
-        "titulo": "Plan de comunicación legal y coordinación con PR."
+        "titulo": "Planificación de Respuesta Rápida y Estrategias de Comunicación.",
+        "desc": [
+            "Desarrollo de planes de acción específicos para crisis que puedan afectar a talentos, producciones o marcas.",
+            "Definición de mensajes clave para mantener la coherencia y transparencia en la comunicación.",
+            "Preparación de portavoces y manejo de entrevistas y declaraciones públicas."
+        ]
+    },
+    {
+        "titulo":"Gestión de Crisis en Redes Sociales y Medios Digitales",
+        "desc":[
+            "Respuesta inmediata a comentarios, rumores o noticias falsas.",
+            "Control de la narrativa en plataformas sociales para proteger la imagen de artistas, producciones o eventos."
+        ]
+    },
+    {
+        "titulo":"Relaciones Públicas y Comunicación con Medios",
+        "desc":[
+            "Coordinación con medios de comunicación para divulgar información oficial y gestionar la percepción pública.",
+            "Organización de comunicados de prensa, entrevistas y conferencias de prensa estratégicas."
+        ]
+    },
+    {
+        "titulo":"Manejo de Crisis Específicas del Sector",
+        "desc":[
+            "Crisis relacionadas con conductas de artistas, cancelaciones de eventos, controversias o problemas legales.",
+            "Gestión de incidentes en producciones o eventos en vivo."
+        ]
+    },
+    {
+        "titulo":"Reparación de Imagen y Estrategias de Reposicionamiento",
+        "desc":[
+            "Campañas de comunicación para restaurar la confianza tras una crisis.",
+            "Promoción de aspectos positivos y logros para fortalecer la imagen pública."
+        ]
+    },
+    {
+        "titulo":"Capacitación y Simulacros para Equipos de Entretención",
+        "desc":[
+            "Entrenamiento para artistas, productores y equipos en manejo de crisis.",
+            "Simulacros de escenarios para preparar respuestas efectivas."
+
+        ]
     }
 ]

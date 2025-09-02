@@ -27,16 +27,18 @@
           <div class="container ">
             <div class="seccionInfo">
               <h4 class="seccionInfo-titulo colorTextoGeneral">SOBRE NOSOTROS</h4>
-              <p class="seccionInfo-contenido">
-                La industria del entretenimiento, en constante expansión y transformación, abarca una amplia gama de sectores como la música, el cine, la televisión, los deportes, los videojuegos y los contenidos digitales.
-              </p>
-              <p class="seccionInfo-contenido">
-                En este escenario complejo y altamente competitivo, la intervención de expertos legales no es solo necesaria, sino estratégica.
-                Desde la negociación de contratos y la gestión de derechos hasta la protección de la imagen y la monetización global de contenidos, ofrecemos un asesoramiento jurídico especializado y a medida de cada cliente.
-              </p>
-              <p class="seccionInfo-contenido">
-                Somos aliados estratégicos acompañando cada proyecto con excelencia legal, sensibilidad comercial y compromiso en el desarrollo sustentable del talento.
-              </p>
+              <ul class="listaSinViñeta">
+                <li class="seccionInfo-contenido">
+                  <p>La industria del entretenimiento, en constante expansión y transformación, abarca una amplia gama de sectores como la música, el cine, la televisión, los deportes, los videojuegos y los contenidos digitales.</p>
+                </li>
+                <li class="seccionInfo-contenido">
+                  <p>En este escenario complejo y altamente competitivo, la intervención de expertos legales no es solo necesaria, sino estratégica.
+                  Desde la negociación de contratos y la gestión de derechos hasta la protección de la imagen y la monetización global de contenidos, ofrecemos un asesoramiento jurídico especializado y a medida de cada cliente.</p>
+                </li>
+                <li class="seccionInfo-contenido">
+                  <p>Somos aliados estratégicos acompañando cada proyecto con excelencia legal, sensibilidad comercial y compromiso en el desarrollo sustentable del talento.</p>
+                </li>
+              </ul>
             </div>
           </div>
         </div>

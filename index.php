@@ -25,28 +25,28 @@
       <div class="container">
         <div class="row g-4 ">
           <div class="container ">
+            <!--
             <div class="seccionInfo">
               <h4 class="seccionInfo-titulo colorTextoGeneral">SOBRE NOSOTROS</h4>
               <ul class="listaSinViñeta">
                 <li class="seccionInfo-contenido">
-                  <p>La industria del entretenimiento, en constante expansión y transformación, abarca una amplia gama de sectores como la música, el cine, la televisión, los deportes, los videojuegos y los contenidos digitales.</p>
+                  <p>La industria del entretenimiento, que abarca sectores como la música, el cine, la televisión, los deportes, los videojuegos y los contenidos digitales, es muy competitiva y exigente.</p>
                 </li>
                 <li class="seccionInfo-contenido">
-                  <p>En este escenario complejo y altamente competitivo, la intervención de expertos legales no es solo necesaria, sino estratégica.
-                  Desde la negociación de contratos y la gestión de derechos hasta la protección de la imagen y la monetización global de contenidos, ofrecemos un asesoramiento jurídico especializado y a medida de cada cliente.</p>
+                  <p>En este contexto, la asistencia de profesionales del derecho resulta indispensable para garantizar el éxito y la protección de los intereses de los involucrados. Ofrecemos un servicio de asesoramiento jurídico especializado y adaptado a las necesidades específicas de cada cliente.</p>
                 </li>
                 <li class="seccionInfo-contenido">
-                  <p>Somos aliados estratégicos acompañando cada proyecto con excelencia legal, sensibilidad comercial y compromiso en el desarrollo sustentable del talento.</p>
+                  <p>Actuamos como aliados estratégicos, brindando apoyo a cada proyecto con excelencia, visión y compromiso en el desarrollo sostenible del talento.</p>
                 </li>
               </ul>
-            </div>
+            </div>-->
           </div>
         </div>
         
 
       </div>
     </section>
-    <hr class="linea-doble">
+    <!--<hr class="linea-doble">-->
     <!--QUE NOS DIFERENCIA?-->
     <section class="py-6">
       <div class="container">
@@ -55,22 +55,22 @@
             <h4 class="seccionInfo-titulo colorTextoGeneral">QUE NOS DIFERENCIA?</h4>
             <ul class="listaSinViñeta">
               <li class="seccionInfo-contenido"><h5>Asesoría jurídica integral con visión estratégica</h5>
-                <p>Somos tu partner legal y estratégico en cada etapa de tu carrera o proyecto.</p>
+               <!--<p>Somos tu partner legal y estratégico en cada etapa de tu carrera o proyecto.</p>-->
               </li>
               <li class="seccionInfo-contenido"><h5>Presencia internacional y enfoque cross-border</h5>
-                <p>Actuamos en Europa, América y países árabes, combinando derecho comparado, fiscalidad internacional y compliance.</p>
+                <!--<p>Actuamos en Europa, América y países árabes, combinando derecho comparado, fiscalidad internacional y compliance.</p>-->
               </li>
               <li class="seccionInfo-contenido"><h5>Protección de tu talento como activo</h5>
-                <p>Registramos, blindamos y defendemos lo que te hace único: tu imagen, tu nombre, tus obras, tu empresa y tu trayectoria.<br><br>
+                <!--<p>Registramos, blindamos y defendemos lo que te hace único: tu imagen, tu nombre, tus obras, tu empresa y tu trayectoria.<br><br>
                   Aplicamos técnicas jurídicas avanzadas para convertir tu identidad en patrimonio jurídico.
-                  </p>
+                  </p>-->
               </li>
               <li class="seccionInfo-contenido"><h5>Servicios ultra personalizados</h5>
-                <p>Nada estándar!. Cada contrato, estructura o defensa se diseña a medida, con un enfoque boutique y trato directo. Nos integramos a tu equipo como asesores jurídicos y estratégicos de confianza.</p>
+                <!--<p>Nada estándar!. Cada contrato, estructura o defensa se diseña a medida, con un enfoque boutique y trato directo. Nos integramos a tu equipo como asesores jurídicos y estratégicos de confianza.</p>-->
               </li>
               <li class="seccionInfo-contenido"><h5>Conexión con el lifestyle de alto perfil</h5>
-                <p>Entendemos tu estilo de vida, tus tiempos, tu marca personal y el peso de tu proyección pública.<br>Hablamos el lenguaje de los deportistas y artistas globales.<br>Cuidamos lo que otros no ven: tus detalles legales, tu blindaje reputacional y tu seguridad jurídica.
-                  </p>
+                <!--<p>Entendemos tu estilo de vida, tus tiempos, tu marca personal y el peso de tu proyección pública.<br>Hablamos el lenguaje de los deportistas y artistas globales.<br>Cuidamos lo que otros no ven: tus detalles legales, tu blindaje reputacional y tu seguridad jurídica.
+                  </p>-->
               </li>
             </ul>
           </section>

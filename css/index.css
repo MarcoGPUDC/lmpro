@@ -94,19 +94,19 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     background-image: url(../public/img/portada-law-sport-1.jpg);
     width: 100%;                /* Ocupa todo el ancho disponible */
     height: 300px;
-    background-size: cover;     /* Ajusta la imagen para cubrir todo el contenedor */
     background-position: center;/* Centra la imagen si se recorta */
     background-repeat: no-repeat;/* Evita que se repita */
     display: flex;               /* Activa Flexbox */
     align-items: center;         /* Centra verticalmente */
     justify-content: center;     /* Centra horizontalmente */
     text-align: center;          /* Centra el texto si es de varias líneas */
-    color: white;  
-    margin-top: 5%;
+    color: white;
     margin-bottom: 5%;
 }
 .banner h2 {
-    font-family: 'Brush Script MT', cursive;
+    font-family: BaskervilleFull;
+    src: url(baskerville-italic.woff);
+    font-style: italic;
     background-color: rgba(0, 0, 0, 0);
     border-radius: 10px;
     max-width: 90%;
@@ -118,7 +118,6 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
 .seccionInfo{
     font-size: 30px;
     text-align: center;
-    font-weight: bold;
     padding-bottom: 8px;
 }
 .seccionInfo-titulo{
@@ -129,8 +128,6 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
 }
 .seccionInfo-contenido{
     font-family: 'Poppins', sans-serif;
-    width: 90%;
-    padding-left: 7%;
     font-size: 15px;
     text-align: center;
     color: rgb(191, 178, 178);
@@ -138,7 +135,6 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
 
 .seccionInfo-contenido h5{
     font-size: 15px;
-    font-weight: bold;
 }
 
 .linea-doble {
@@ -175,9 +171,9 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     list-style-type: none;
  }
 
- ul h5 {
+ /*ul h5 {
     text-decoration: underline;
- }
+ }*/
 
  .accordion-button:not(.collapsed){
     color: white;
@@ -241,4 +237,22 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     padding: 15px;
     border: 1px solid white;
     border-radius: 2%;
+}
+
+#fotoPrincipal {
+    justify-content: center;
+    display: flex; 
+    margin-top: 4%;
+    margin-bottom: 1%;
+}
+
+.textoFotoPrincipal {
+    display: flex;
+    flex-direction: column;
+}
+.textoFotoPrincipal p{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1200px;
 }

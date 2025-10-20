@@ -3,7 +3,6 @@ function crearAcordeon(items) {
     contenedor.setAttribute('style','display:none');
     const acordion = document.getElementById('accordionServicios')
     acordion.innerHTML = ' ';
-  
     items.forEach((item, i) => {
       const encabezado = document.createElement('div');
       if (item.desc){
@@ -45,6 +44,7 @@ function crearAcordeon(items) {
   }
   
   function generarLista(desc) {
+    
     const ul = document.createElement('ul');
     if(desc) {
       desc.forEach(punto => {
@@ -75,7 +75,10 @@ function crearAcordeon(items) {
   function cargarServicio(nombreArchivo) {
     fetch(`/servicios/data/${nombreArchivo}.json`)
       .then(res => res.json())
-      .then(data => crearAcordeon(data))
+      .then(data => {
+        crearAcordeon(data);
+        document.getElementById("fotoPrincipal").setAttribute('style', 'display: none;');
+      })
       .catch(err => console.error('Error al cargar JSON', err));
   }
   
@@ -102,4 +105,6 @@ function crearAcordeon(items) {
       acordion.firstChild.remove();
     }
     contenedor.setAttribute('style','display:block');
+    document.getElementById("fotoPrincipal").setAttribute('style', 'display: flex;')
   }
+  

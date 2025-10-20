@@ -78,6 +78,7 @@ function crearAcordeon(items) {
       .then(data => {
         crearAcordeon(data);
         document.getElementById("fotoPrincipal").setAttribute('style', 'display: none;');
+        document.getElementById("textoFotoPrincipal").setAttribute('style', 'display: none;');
       })
       .catch(err => console.error('Error al cargar JSON', err));
   }
@@ -106,5 +107,6 @@ function crearAcordeon(items) {
     }
     contenedor.setAttribute('style','display:block');
     document.getElementById("fotoPrincipal").setAttribute('style', 'display: flex;')
+    document.getElementById("textoFotoPrincipal").setAttribute('style', 'display: flex;')
   }
   

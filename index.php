@@ -245,9 +245,7 @@
     <div class="container text-center">
       <a href="mailto:Layla@lmpro.fun" class="text-white"><p class="mb-1">Contacto: layla@lmpro.fun</p></a>
       <p class="mb-0 small">
-        <a href="#" class="text-white text-decoration-none me-2">Política de Cookies</a>
-        <a href="#" class="text-white text-decoration-none me-2">Privacidad</a>
-        <a href="#" class="text-white text-decoration-none">Aviso Legal</a>
+        Copyright © 2025 LMPRO. All rights reserved.
       </p>
     </div>
   </footer>

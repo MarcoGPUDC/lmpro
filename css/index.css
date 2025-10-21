@@ -104,9 +104,7 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     margin-bottom: 5%;
 }
 .banner h2 {
-    font-family: BaskervilleFull;
-    src: url(baskerville-italic.woff);
-    font-style: italic;
+    font-family: 'Dancing Script', cursive;
     background-color: rgba(0, 0, 0, 0);
     border-radius: 10px;
     max-width: 90%;
@@ -246,6 +244,10 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     margin-bottom: 1%;
 }
 
+#fotoPrincipal img {
+    width: 1200px;
+}
+
 .textoFotoPrincipal {
     display: flex;
     flex-direction: column;
@@ -255,4 +257,23 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     justify-content: center;
     margin: 0 auto;
     max-width: 1200px;
+}
+
+@media (max-width: 480px) {
+    #fotoPrincipal img {
+        width: 400px;
+        margin-top: 44px;
+    }
+
+    .containerBanner {
+        width: 530px;
+    }
+
+    .navbar {
+        width: 94%;
+    }
+
+    footer {
+        width: 530px;
+    }
 }

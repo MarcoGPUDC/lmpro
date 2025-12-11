@@ -89,9 +89,9 @@
           <h4 class="seccionInfo-titulo colorTextoGeneral">NUESTROS SERVICIOS</h4>
         
           <!--LINEA 1-->
-          <div class="row g-4 ">
+          <div class="row g-5 mt-2">
             <!-- Servicio 1 con fondo degradado-->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" onclick="cargarServicio('carreraProfesional')" href="#carreraProfesional">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body" >
@@ -102,7 +102,7 @@
               </a>
             </div>
             <!-- Servicio 2 con fondo degradado -->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" onclick="cargarServicio('patrocinios&Endorsement')" href="#patrocinios&Endorsement">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body">
@@ -113,8 +113,11 @@
               </a>
 
             </div>
+          </div>
+          <!--LINEA 2-->
+          <div class="row g-4 mt-2">
             <!-- Servicio 3 con fondo degradado-->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" onclick="cargarServicio('financiera&Patrimonial')" href="#financiera&Patrimonial">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body" >
@@ -125,7 +128,7 @@
               </a>
             </div>
             <!-- Servicio 4 con fondo degradado-->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" onclick="cargarServicio('legal&Fiscal')" href="#legal&Fiscal">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body" >
@@ -136,10 +139,10 @@
               </a>
             </div>
           </div>
-          <!--LINEA 2-->
+          <!--LINEA 3-->
           <div class="row g-4 mt-2">
             <!-- Servicio 5 con fondo degradado-->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" onclick="cargarServicio('integridadDeporte')" href="#integridadDeporte">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body" >
@@ -150,7 +153,7 @@
               </a>
             </div>
             <!-- Servicio 6 con fondo degradado -->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" onclick="cargarServicio('anticorrupcion&Soborno')" href="#anticorrupcion&Soborno">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body">
@@ -160,8 +163,11 @@
                 </div>
               </a>
             </div>
+          </div>
+          <!--LINEA 4-->
+          <div class="row g-4 mt-2">
             <!-- Servicio 7 con fondo degradado-->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" onclick="cargarServicio('blanqueoCapitales')" href="#blanqueoCapitales">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body" >
@@ -172,7 +178,7 @@
               </a>
             </div>
             <!-- Servicio 8 con fondo degradado-->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" onclick="cargarServicio('datos&Privacidad')" href="#datos&Privacidad">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body">
@@ -183,10 +189,10 @@
               </a>
             </div>
           </div>
-          <!--LINEA 3--> 
+          <!--LINEA 5--> 
           <div class="row g-4 mt-2">
             <!-- Servicio 9 con fondo degradado-->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" href="#etica&Marketing" onclick="cargarServicio('etica&Marketing')">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body">
@@ -197,7 +203,7 @@
               </a>
             </div>
             <!-- Servicio 10 con fondo degradado -->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" href="#auditorias" onclick="cargarServicio('auditorias')">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body">
@@ -207,8 +213,11 @@
                 </div>
               </a>
             </div>
+          </div>
+          <!--LINEA 6-->
+          <div class="row g-4 mt-2">
             <!-- Servicio 11 con fondo degradado-->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" href="#formacion&Sensibilizacion" onclick="cargarServicio('formacion&Sensibilizacion')">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body">
@@ -219,7 +228,7 @@
               </a>
             </div>
             <!-- Servicio 12 con fondo degradado-->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-6">
               <a class="link-blanco" href="#gestionReputacional" onclick="cargarServicio('gestionReputacional')">
                 <div class="card h-100 shadow-sm border-0 bg-degradado-dorado">
                   <div class="card-body">

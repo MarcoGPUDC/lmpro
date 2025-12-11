@@ -294,4 +294,9 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     footer {
         width: 530px;
     }
+
+    .seccionArticulos{
+        margin: auto auto;
+        max-width: 480px;
+     }
 }

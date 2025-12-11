@@ -120,6 +120,11 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     margin: auto auto;
     max-width: 1200px;
 }
+
+.contenedorTarjeta {
+    padding-right: 0px !important;
+}
+
 .seccionInfo-titulo{
     font-family: 'Poppins', sans-serif;
     padding-bottom: 10px;

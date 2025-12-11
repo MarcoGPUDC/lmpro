@@ -241,7 +241,13 @@
           </div>
         </div>
       </div>
-      
+      <hr class="linea-doble">
+        <div class="seccionArticulos seccionInfo-titulo colorTextoGeneral">
+          <h4>ARTICULOS</h4>
+          <iframe class="px-2" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7377724026498088960?collapsed=1" height="502" width="380" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+          <iframe class="px-2" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7404187806035685376?collapsed=1" height="502" width="380" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+          <iframe class="px-2" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7178540104544632832?collapsed=1" height="502" width="380" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+        </div>
     </section>
   </div>
   <div id="containerAccordion">

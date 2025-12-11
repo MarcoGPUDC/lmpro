@@ -176,6 +176,17 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     list-style-type: none;
  }
 
+ .seccionArticulos *{
+    padding-top: 5px;
+    text-align: center;
+ }
+
+ .seccionArticulos{
+    padding-left: 30px;
+    margin: auto auto;
+    width: 1200px;
+ }
+
  /*ul h5 {
     text-decoration: underline;
  }*/

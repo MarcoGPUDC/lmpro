@@ -277,18 +277,29 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     max-width: 1200px;
 }
 
-@media (max-width: 480px) {
+
+
+@media (max-width: 880px) {
     #fotoPrincipal img {
-        width: 400px;
+        width: 750px;
         margin-top: 44px;
     }
 
-    .containerBanner {
-        width: 530px;
+    .textoFotoPrincipal p {
+        max-width: 94%;
     }
 
-    .navbar {
-        width: 100%;
+    .containerBanner {
+        max-width: 100%;
+    }
+
+    .navegador {
+        max-width: 100%;
+    }
+
+    .navegador-contenido{
+        margin: 0px;
+        max-width: 82%;
     }
 
     footer {
@@ -299,4 +310,41 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
         margin: auto auto;
         max-width: 480px;
      }
+     
+     .logo {
+        float: left;
+     }
+
+     .banner {
+        width: 92%;
+        margin: auto auto;
+     }
+
+     .seccionInfo {
+        padding-top: 20px;
+     }
+
+     @media (max-width: 480px) {
+        body {
+            margin: auto auto;
+        }
+
+        #fotoPrincipal img {
+            width: 400px;
+            margin-top: 44px;
+        }
+    
+        .navbar {
+            width: 100%;
+        }
+    
+        footer {
+            width: 530px;
+        }
+    
+        .seccionArticulos{
+            margin: auto auto;
+            max-width: 480px;
+         }
+    }
 }

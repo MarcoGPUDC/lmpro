@@ -90,6 +90,7 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
 .sub-title{
     font-size: 50px;
 }
+
 .banner{
     background-image: url(../public/img/portada-law-sport-1.jpg);
     width: 100%;                /* Ocupa todo el ancho disponible */
@@ -233,6 +234,7 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
 }
 
 .containerBanner {
+    
     top:59px;
 }
 

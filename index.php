@@ -54,7 +54,7 @@
     <section class="py-6">
       <div class="container">
         <div class="py-6">
-          <section class="seccionInfo">
+          <section class="seccionInfo mt-2">
             <h4 class="seccionInfo-titulo colorTextoGeneral">QUE NOS DIFERENCIA?</h4>
             <ul class="listaSinViñeta">
               <li class="seccionInfo-contenido"><h5>Asesoría jurídica integral con visión estratégica</h5>

@@ -102,7 +102,6 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
     justify-content: center;     /* Centra horizontalmente */
     text-align: center;          /* Centra el texto si es de varias líneas */
     color: white;
-    margin-bottom: 5%;
 }
 .banner h2 {
     font-family: 'Dancing Script', cursive;
@@ -260,7 +259,7 @@ h1, h2, h3, H4, .navbar-brand, .subtitulo {
 #fotoPrincipal {
     justify-content: center;
     display: flex; 
-    margin-top: 4%;
+    margin-top: 2%;
     margin-bottom: 1%;
 }
 
